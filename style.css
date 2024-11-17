@@ -1,0 +1,27 @@
+.main-header{
+    display:flex;
+    justify-content: space-evenly;
+    align-items: center;
+    padding: 20px;
+    font-weight: 700;
+    font-size: large;
+    background-color: yellow;
+
+}
+
+
+header h1 {
+    font-size: xx-large;
+    margin-right: 900px;
+}
+
+
+.nav-links{
+    text-decoration: none;
+    color: black;
+}
+
+.nav{
+    display: flex;
+    gap: 10px;
+}
